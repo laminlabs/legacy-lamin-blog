@@ -3,6 +3,7 @@ title: Hello world!
 authors: [falexwolf, sunnyosun]
 date: 2022-04-15
 slug: 2022/hello-world
+tags: [intro, lamin]
 ---
 
 We are building open-source tools to improve data management for computational biology.
