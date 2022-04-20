@@ -1,0 +1,21 @@
+name: Format
+
+# This action works with pull requests and pushes
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  prettier:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+      - name: Run prettier
+        uses: creyD/prettier_action@v4.2
+        with:
+          dry: true
+          prettier_options: --check **/*.{md}
