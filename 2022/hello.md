@@ -1,6 +1,6 @@
 ---
 date: 2022-04-21
-authors: sunnyosun, falexwolf
+author: sunnyosun, falexwolf
 ---
 
 # Hello world!
