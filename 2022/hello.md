@@ -1,8 +1,9 @@
 ---
 title: Hello world!
 authors: [sunnyosun, falexwolf]
-date: 2022-04-18
-slug: 2022/hello-world
+date: 2022-04-21
 ---
 
-This is a test.
+This is a test paragraph.
+
+This is another test paragraph.
