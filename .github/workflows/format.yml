@@ -3,9 +3,9 @@ name: Format
 # This action works with pull requests and pushes
 on:
   push:
-    branches: [ main ]
+    branches: [main]
   pull_request:
-    branches: [ main ]
+    branches: [main]
 
 jobs:
   prettier:
@@ -18,5 +18,5 @@ jobs:
         uses: creyD/prettier_action@v4.2
         with:
           dry: true
-          prettier_version: 2.6.2  # same as in package.json
+          prettier_version: 2.6.2 # same as in package.json
           prettier_options: --check **/*.md
