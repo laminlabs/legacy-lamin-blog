@@ -14,7 +14,7 @@ Our website just launched at [lamin.ai](https://lamin.ai). It's currently a pla
 <h5>Notes<a class="headerlink" href="#notes">#</a></h5>
 
 - Why Lamin? We thought about a metaphor for *an interfacing layer between biology and computing*, wrote down a list of 43 words, and liked Lamin the most. Lamin proteins make up the essential filament layer that provides the cell nucleus with structural and functional support.
-- The logo is inspired by fluorescent images of a human cell nucleus with stained lamin proteins (Figure 1).
+- The logo is inspired by fluorescent images of a human cell nucleus with stained lamin proteins (**Figure 1**).
 
 :::{figure-md} fig-target
 :class: myclass
