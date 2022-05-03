@@ -21,5 +21,5 @@ Our website just launched at [lamin.ai](https://lamin.ai). It's currently a pla
 
 <img width="256" alt="Laminopathic nuclei" src="https://upload.wikimedia.org/wikipedia/commons/2/28/Laminopathic_nuclei.jpg">
 
-Figure 1: Microscopy images of dermal fibroblasts highlighting the stained lamin layer around the nucleus. Images are taken from a control (a, b) and a subject with [Progreria](https://en.wikipedia.org/wiki/Progeria) (c, d) where nucleur envelopes are shaped irregularly. The image is from [Paradisi et al. (2005)](https://doi.org/10.1186/1471-2121-6-27), CC BY 2.0 via [Wiki Commons](https://commons.wikimedia.org/wiki/File:Laminopathic_nuclei.jpg).
+**Figure 1 | Microscopy images of dermal fibroblasts highlighting the stained lamin layer around the nucleus.** Images are taken from a control (a, b) and a subject with [Progreria](https://en.wikipedia.org/wiki/Progeria) (c, d) where nucleur envelopes are shaped irregularly. The image is from [Paradisi et al. (2005)](https://doi.org/10.1186/1471-2121-6-27), CC BY 2.0 via [Wiki Commons](https://commons.wikimedia.org/wiki/File:Laminopathic_nuclei.jpg).
 :::
