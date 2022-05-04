@@ -1,15 +1,12 @@
 ---
+title: Hello world!
 date: 2022-05-03
 author: sunnyosun, falexwolf
 ---
 
-# Hello world!
-
 We're building new tools to improve data management for computational biology. Most of these tools are going to be open source.
 
 Our website just launched at [lamin.ai](https://lamin.ai). It's currently a place for sharing prototypes with our beta customers and collaborators. Over time, we'll add public releases and use this blog to explain our work.
-
----
 
 <h5>Notes<a class="headerlink" href="#notes">#</a></h5>
 
