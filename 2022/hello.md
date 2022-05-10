@@ -22,7 +22,7 @@ Over time, we'll add public releases and use this blog to explain our work.
 <!-- prettier-ignore -->
 [^lamin]: Why Lamin? We thought about a metaphor for _an interfacing layer between biology and computing_, wrote down a list of 43 words, and liked Lamin the most.
     [Lamin proteins](https://en.wikipedia.org/wiki/Lamin) make up the essential filament layer that provides the cell nucleus with structural and functional support.
-    Fluorescent images of a human cell nucleus with stained lamin proteins inspired the logo (**Figure 1**).
+    Sunny made the logo thinking of fluorescent images of human cell nuclei with stained lamin proteins (**Figure 1**).
 
 <!-- prettier-ignore -->
 [^ai]: Yes, we've been aware of hype around "AI" for years.
