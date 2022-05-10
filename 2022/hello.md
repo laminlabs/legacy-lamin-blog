@@ -7,7 +7,7 @@ author: sunnyosun, falexwolf
 At Lamin Labs, we build new tools to improve data & analysis management for computational biology.
 Most of these tools are going to be open source.
 
-Why Lamin? We thought about a metaphor for _an interfacing layer between biology and computing_, wrote down a list of 43 words, and liked Lamin the most.
+Why Lamin? We thought about a metaphor for an interfacing layer between biology and computing, wrote down a list of 43 words, and liked Lamin the most.
 [Lamin proteins](https://en.wikipedia.org/wiki/Lamin) make up the essential filament layer that provides the cell nucleus with structural and functional support.
 Sunny made the logo thinking of fluorescent images of human cell nuclei with stained lamin proteins (**Figure 1**).
 
