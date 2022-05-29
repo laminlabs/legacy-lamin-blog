@@ -7,13 +7,12 @@ author: sunnyosun, falexwolf
 At Lamin Labs, we build new tools to improve data & analysis management for computational biology.
 Most of these tools are going to be open source.
 
-Why Lamin? We thought about a metaphor for an interfacing layer between biology and computing, wrote down a list of 43 words, and liked Lamin the most.
-[Lamin proteins](https://en.wikipedia.org/wiki/Lamin) make up the essential filament layer that provides the cell nucleus with structural and functional support.
-Sunny made the logo thinking of fluorescent images of human cell nuclei with stained lamin proteins (**Figure 1**).
-
 We just launched [lamin.ai](https://lamin.ai).[^ai]
 It's currently a place for sharing prototypes with our beta customers and collaborators.
 Over time, we'll add public releases and use this blog to explain our work.
+
+Why Lamin? We tried to come up with a metaphor for an interfacing layer between biology and computing, wrote down a list of 43 words, and liked Lamin the most.
+[Lamin proteins](https://en.wikipedia.org/wiki/Lamin) make up the essential filament layer that provides the cell nucleus with structural and functional support (**Figure 1**).
 
 :::{figure-md} fig-target
 :class: myclass
@@ -24,6 +23,6 @@ Over time, we'll add public releases and use this blog to explain our work.
 :::
 
 <!-- prettier-ignore -->
-[^ai]: Yes, we've been aware of hype around "AI" for years.
+[^ai]: Re ".ai": We've been aware of hype and confusion around "AI" for years.
     When we say "AI", we mean the [same thing as Wikipedia](https://en.wikipedia.org/wiki/Artificial_intelligence): artificial as opposed to natural intelligence, a wide field containing statistical machine learning, knowledge representation and more.
     Lamin Labs aims to enable more AI for biology.
