@@ -7,8 +7,7 @@ author: sunnyosun, falexwolf
 At Lamin Labs, we build new tools to improve data & analysis management for computational biology.
 Most of these tools are going to be open source.
 
-We just launched [lamin.ai](https://lamin.ai).
-It's currently a place for sharing prototypes with our beta customers and collaborators.
+We just launched [lamin.ai](https://lamin.ai) as a place for sharing prototypes with our beta customers and collaborators.
 Over time, we'll add public releases and use this blog to explain our work.
 
 Why Lamin? We tried to come up with a metaphor for an interfacing layer between biology and computing, wrote down a list of 43 words, and liked Lamin the most.
